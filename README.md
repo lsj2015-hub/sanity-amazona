@@ -4,7 +4,7 @@
 
 1. Introduction
    1. What you will learn
-   2. Waht you will build
+   2. What you will build
    3. What Package you will use
 2. Install Tools
    1. VS Code
@@ -19,3 +19,8 @@
    1. Add header
    2. Add main
    3. Add footer
+6. Connect to Sanity.io
+   1. install Sanity
+   2. initialize sanity
+   3. create product model
+   4. insert sample data to product model
